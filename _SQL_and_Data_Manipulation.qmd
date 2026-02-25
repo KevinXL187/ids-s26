@@ -1,5 +1,5 @@
 ---
-title: Chapter 3 "Database operation with Structured Query Language (SQL)"
+title: "Database operation with Structured Query Language (SQL)"
 subtitle: "Introduction to Data Science | Spring 2026"
 author: "Shreya Sudarsanam"
 format: html
