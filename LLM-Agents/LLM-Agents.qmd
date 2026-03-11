@@ -28,7 +28,7 @@ Hello! My name is Jonathan Trnka and this is my presentation on LLM Agents!
 - Explain what makes an LLM-Agent different
 - Compare them
 - Explain my process 
-- Use statistical tools to explain my dat
+- Use statistical tools to explain my Data
 - Conclusion
  
 
