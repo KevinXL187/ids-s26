@@ -175,8 +175,6 @@ and use linear regression techniques to analyze differences in performance, erro
      - extract final answers
      - normalize errors
      - count tool usage
-     - compute num_tools
-     - assign tool_pattern
      - produce 1 row per query
         │
         ▼
